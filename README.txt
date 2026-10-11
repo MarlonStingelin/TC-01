@@ -1,0 +1,1 @@
+python analisador.py entrada.txt saida.txt
